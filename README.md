@@ -6,9 +6,6 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 
 ## Characters
 
-This mod adds characters from Star Trek: Voyager.
-Only characters, no gameplay changes.
-
 ### Kathryn Janeway
 skills: combat=1 construction=0 cooking=0 crafting=0 farming=0 healing=0 physical=1 intellect=1
 traits: Calming, FastLearner, Inedia

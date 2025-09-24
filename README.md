@@ -12,7 +12,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 |-----------| ------ | ------------ | ------- | -------- | ------- | ------- | -------- | --------- | ------ | ---------- |
 | Kathryn Janeway | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | Calming, FastLearner, Inedia | Coffee |
 | Chakotay | 2 | 2(interested) | 0 | 1 | 0 | 0 | 3 | 0 | Vegetarian, FastWalker, MasterBuilder | StewVegetable |
-| Tom Paris | 2 | 2(interested) | Forbidden | 0 | 0 | 0 | 4(interested) | 0 | PieMeat |
+| Tom Paris | 2 | 2(interested) | Forbidden | 0 | 0 | 0 | 4(interested) | 0 | EntertainmentJunkie, InspirationalWriter |  PieMeat |
 | Tuvok | 3 | 1 | Forbidden | 1 | 0(indifferent) | 0 | 4 | 5(interested) | Liberated,Genius | HaySausage |
 | Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 3 | 2 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin |
 | B'Elanna Torres | 6(interested) | 1 | 0 | 1 | 0(indifferent) | 0(indifferent) | 4 | 0 | Engineer, CombatInstructor,Bloodlust,Glutton | |

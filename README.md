@@ -1,6 +1,7 @@
 # Voyager Crew
 
 Character Mod for Stranded: Alien Dawn
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3573518914
 
 ## Characters
 

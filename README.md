@@ -17,5 +17,5 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 | Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 3 | 2 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin |
 | B'Elanna Torres | 6(interested) | 1 | 0 | 1 | 0(indifferent) | 0(indifferent) | 4 | 0 | Engineer, CombatInstructor,Bloodlust,Glutton | |
 | Neelix | 0(indifferent) | 0 | 2(interested) | 0 | 2(interested) | 0 | 0 | 0(indifferent) | ExquisiteCook, CheerfulPersonality, Compassionate, Glutton, AvidFarmer | MushroomCroquettes |
-| Doctor | 0(indifferent) | 0 | 0 | 1 | 1 | 7(interested) | 0 | 3 | ImpeccableHealer, Pacifist, MusicalProdigy, InspirationalWriter, Gloomy | |
+| Doctor | 0(indifferent) | 0 | 0 | 1 | 1 | 7(interested) | 0 | 3 | ImpeccableHealer, Pacifist, Genius, MusicalProdigy, InspirationalWriter, Gloomy | |
 | Seven of Nine | 2 | 0 | 0(indifferent) | 0(indifferent) | 0 | 0 | 1 | 6 | Genius,NaturalCuriosity,Hemophobia | |

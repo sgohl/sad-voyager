@@ -259,7 +259,7 @@ PlaceObj('ModItemCharacterDef', {
 	LastName = T(638294010095, --[[ModItemCharacterDef Tom LastName]] "Paris"),
 	Payment = 60000000,
 	PerceivedGender = "Male",
-	Portrait = "Mod/Pmb5Nio/assets/images/mod_Tom_small.jpg",
+	Portrait = "Mod/Pmb5Nio/assets/images/mod_Tom_small2.jpg",
 	PortraitInventory = "UI/Portraits/Inventory/Simon_inventory",
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Tom_large.jpg",
 	SkillInclinations = {

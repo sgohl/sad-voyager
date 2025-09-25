@@ -11,10 +11,10 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 |           | combat | construction | cooking | crafting | farming | healing | physical | intellect | traits | favourites | equipment | forbiddenbreakdowns |
 |-----------| ------ | ------------ | ------- | -------- | ------- | ------- | -------- | --------- | ------ | ---------- | --------- | --------------------|
 | Kathryn Janeway | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | Calming, FastLearner, Inedia | Coffee, Reading | Jacket_Spaceship, Pants_Spaceship, Shirt_Heavy_Good, Shoes_Heavy | all |
-| Chakotay | 2 | 2(interested) | 0 | 1 | 0 | 0 | 3 | 0 | Vegetarian, FastWalker, MasterBuilder | StewVegetable |
+| Chakotay | 2 | 2(interested) | 0 | 1 | 0 | 0 | 3 | 0 | Vegetarian, FastWalker, MasterBuilder | StewVegetable, PunchingPole, VisitAnimal | Jacket_Light_Good, Pants_Spaceship, Shirt_Heavy_Good, Shoes_Heavy | Stealing |
 | Tom Paris | 2 | 2(interested) | Forbidden | 0 | 0 | 0 | 4(interested) | 0 | EntertainmentJunkie, InspirationalWriter, CoagulatedBlood |  PieMeat |
 | Tuvok | 3 | 1 | Forbidden | 1 | 0(indifferent) | 0 | 4 | 5(interested) | Liberated, TacticalCommander, Healthy,Genius | HaySausage, SittingArmchair, Praying |
-| Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 2 | 1 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin |
+| Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 2 | 1 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin, PlayingArcadeGame | Shoes_Normal, Shirt_Heavy_Crude, Pants_Spaceship |  |
 | B'Elanna Torres | 6(interested) | 1 | 0 | 1 | 0(indifferent) | 0(indifferent) | 4 | 0 | Engineer, CombatInstructor,Bloodlust,Glutton | |
 | Neelix | 0(indifferent) | 0 | 2(interested) | 0 | 2(interested) | 0 | 0 | 0(indifferent) | ExquisiteCook, Cheerful, Glutton, AvidFarmer, Haggler, Sickly, Sleepy, Slowpoke | MushroomCroquettes, AppreciatingDecoration, Drinking | AncientTalisman, Shirt_Heavy_Crude, Shoes_Normal, Pants_Spaceship | Berserk, Bullying |
 | Doctor | 0(indifferent) | 0 | 0 | 1 | 1 | 7(interested) | 0 | 3 | ImpeccableHealer, Pacifist, Genius, MusicalProdigy, InspirationalWriter, Gloomy | |

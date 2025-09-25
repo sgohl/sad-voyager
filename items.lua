@@ -194,7 +194,7 @@ PlaceObj('ModItemCharacterDef', {
 	},
 	Skills = {
 		Combat = 1,
-		Construction = 2,
+		Construction = 1,
 		Crafting = 1,
 		Intellectual = 1,
 		Physical = 2,

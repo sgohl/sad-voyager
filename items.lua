@@ -245,7 +245,7 @@ PlaceObj('ModItemCharacterDef', {
 	HairRoughness = 20,
 	Head = "Head_Greyson",
 	Headline = T(851799427676, --[[ModItemCharacterDef Tom Headline]] "The Pilot"),
-	Height = 1780,
+	Height = 1790,
 	LastName = T(673763419927, --[[ModItemCharacterDef Tom LastName]] "Paris"),
 	Payment = 60000000,
 	PerceivedGender = "Male",
@@ -304,8 +304,6 @@ PlaceObj('ModItemCharacterDef', {
 	FirstName = T(607031609618, --[[ModItemCharacterDef Tuvok FirstName]] "Tuvok"),
 	ForbiddenBreakdowns = {
 		"Initial_Crying",
-		"DrinkingBinge",
-		"FoodBinge",
 	},
 	Gender = "Male",
 	Hair = "Hair_Omar",
@@ -315,6 +313,7 @@ PlaceObj('ModItemCharacterDef', {
 	HairParam3 = 127,
 	Head = "Head_Umayr",
 	Headline = T(744626527428, --[[ModItemCharacterDef Tuvok Headline]] "It's only logical"),
+	Height = 1880,
 	LastName = "",
 	Payment = 45000000,
 	PerceivedGender = "Male",
@@ -338,6 +337,7 @@ PlaceObj('ModItemCharacterDef', {
 		'EditableColor2', RGBA(151, 75, 42, 255),
 		'EditableColor3', RGBA(75, 55, 45, 255),
 	}),
+	TemperatureHigh = 42000,
 	Traits = {
 		"Liberated",
 		"TacticalCommander",

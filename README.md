@@ -17,5 +17,5 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 | Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 2 | 1 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin, PlayingArcadeGame | Shoes_Normal, Shirt_Heavy_Crude, Pants_Spaceship |  |
 | B'Elanna Torres | 2(interested) | 1 | 0(indifferent) | 1 | 0(indifferent) | 0(indifferent) | 3 | 0 | Engineer, CombatInstructor, Bloodlust, Glutton | Drinking, TargetPractice | Armor_Shoes_Carbon, Armor_Jacket_Carbon, Armor_Pants_Carbon | SadWalk |
 | Neelix | 0(indifferent) | 0 | 2(interested) | 0 | 2(interested) | 0 | 0 | 0(indifferent) | ExquisiteCook, Cheerful, Glutton, AvidFarmer, Haggler, Sickly, Sleepy, Slowpoke | MushroomCroquettes, AppreciatingDecoration, Drinking | AncientTalisman, Shirt_Heavy_Crude, Shoes_Normal, Pants_Spaceship | Berserk, Bullying |
-| Doctor | 0(indifferent) | 0 | 0 | 1 | 1 | 7(interested) | 0 | 3 | ImpeccableHealer, Pacifist, Genius, MusicalProdigy, InspirationalWriter, Gloomy | |
+| Doctor | 0(indifferent) | 0 | 0 | 1 | 1 | 7(interested) | 0 | 3 | NightOwl, Gloomy, ImpeccableHealer, Pacifist, MusicalProdigy, InspirationalWriter,  | |
 | Seven of Nine | 2 | 0 | 0(indifferent) | 0(indifferent) | 0 | 0 | 1 | 6 | Genius,NaturalCuriosity,Hemophobia | |

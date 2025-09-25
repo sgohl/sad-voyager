@@ -266,11 +266,13 @@ PlaceObj('ModItemCharacterDef', {
 		Construction = "Interested",
 		Cooking = "Forbidden",
 		Farming = "Indifferent",
+		Healing = "Interested",
 		Physical = "Interested",
 	},
 	Skills = {
 		Combat = 2,
 		Construction = 2,
+		Healing = 1,
 		Physical = 4,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {

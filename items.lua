@@ -676,7 +676,6 @@ PlaceObj('ModItemCharacterDef', {
 		"PleasureWalk",
 		"SnowmanMaking",
 		"Reading",
-		"",
 	},
 	FirstName = T(133393162206, --[[ModItemCharacterDef Kes FirstName]] "Kes"),
 	ForbiddenBreakdowns = {
@@ -706,10 +705,9 @@ PlaceObj('ModItemCharacterDef', {
 		Farming = "Interested",
 	},
 	Skills = {
-		Cooking = 1,
-		Crafting = 1,
 		Farming = 1,
 		Healing = 1,
+		Intellectual = 1,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {
 		'EditableColor1', RGBA(255, 148, 101, 255),

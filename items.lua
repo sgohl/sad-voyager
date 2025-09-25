@@ -517,7 +517,6 @@ PlaceObj('ModItemCharacterDef', {
 PlaceObj('ModItemCharacterDef', {
 	Age = 44,
 	Bio = T(289258758506, --[[ModItemCharacterDef Doctor Bio]] "BIO Doctor"),
-	DefaultConsumptionType = "Read",
 	Equipment = {
 		"Shirt_Heavy_Good",
 		"Pants_Spaceship",

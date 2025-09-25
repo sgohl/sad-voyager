@@ -342,6 +342,7 @@ PlaceObj('ModItemCharacterDef', {
 		"Liberated",
 		"TacticalCommander",
 		"Healthy",
+		"Genius",
 	},
 	anim_run = "standing_Walk_Run",
 	anim_walk = "standing_Walk_Free2",

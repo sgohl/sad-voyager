@@ -12,7 +12,7 @@ Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=357351891
 |-----------| ------ | ------------ | ------- | -------- | ------- | ------- | -------- | --------- | ------ | ---------- | --------- | --------------------|
 | Kathryn Janeway | 1 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | Calming, FastLearner, Inedia | Coffee, Reading | Jacket_Spaceship, Pants_Spaceship, Shirt_Heavy_Good, Shoes_Heavy | all |
 | Chakotay | 2 | 2(interested) | 0 | 1 | 0 | 0 | 3 | 0 | Vegetarian, FastWalker, MasterBuilder | StewVegetable, PunchingPole, VisitAnimal | Jacket_Light_Good, Pants_Spaceship, Shirt_Heavy_Good, Shoes_Heavy | Stealing, Hiding, Initial_Crying |
-| Tom Paris | 2 | 2(interested) | Forbidden | 0 | 0 | 0 | 4(interested) | 0 | EntertainmentJunkie, InspirationalWriter, CoagulatedBlood |  PizzaVegetable |
+| Tom Paris | 2 | 2(interested) | Forbidden | 0 | 0 | 1(interested) | 4(interested) | 0 | EntertainmentJunkie, InspirationalWriter, CoagulatedBlood |  PizzaVegetable |
 | Tuvok | 3 | 0 | Forbidden | 1 | 0(indifferent) | 0 | 4 | 5(interested) | Liberated, TacticalCommander, Healthy, Genius | HaySausage, SittingArmchair, Praying | Pants_Spaceship, Jacket_Spaceship, Shoes_Heavy | X |
 | Harry Kim | 1 | 2 | 0 | 1(interested) | 0 | 0 | 2 | 1 | Explorer, MusicalProdigy, NaturalCuriosity | PiePumpkin, PlayingArcadeGame | Shoes_Normal, Shirt_Heavy_Crude, Pants_Spaceship |  |
 | B'Elanna Torres | 2(interested) | 1 | 0(indifferent) | 1 | 0(indifferent) | 0(indifferent) | 3 | 0 | Engineer, CombatInstructor, Bloodlust, Glutton | Drinking, TargetPractice | Armor_Shoes_Carbon, Armor_Jacket_Carbon, Armor_Pants_Carbon | SadWalk |

@@ -197,7 +197,7 @@ PlaceObj('ModItemCharacterDef', {
 		Construction = 2,
 		Crafting = 1,
 		Intellectual = 1,
-		Physical = 3,
+		Physical = 2,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {
 		'EditableColor1', RGBA(198, 120, 73, 255),
@@ -456,7 +456,7 @@ PlaceObj('ModItemCharacterDef', {
 		Healing = "Indifferent",
 	},
 	Skills = {
-		Combat = 6,
+		Combat = 3,
 		Construction = 1,
 		Crafting = 1,
 		Physical = 4,

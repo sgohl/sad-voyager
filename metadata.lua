@@ -5,11 +5,11 @@ return PlaceObj('ModDef', {
 	'last_changes', "fix skills",
 	'id', "Pmb5Nio",
 	'author', "oivlisLhog",
-	'version', 89,
+	'version', 96,
 	'lua_revision', 233360,
 	'saved_with_revision', 373414,
 	'has_data', true,
-	'saved', 1758784976,
+	'saved', 1758785707,
 	'steam_id', "3573518914",
 	'TagCharacters', true,
 })

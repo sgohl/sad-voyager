@@ -400,7 +400,7 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitInventory = "UI/Portraits/Inventory/Connor_inventory",
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Neelix_large.jpg",
 	SkillInclinations = {
-		Combat = "Indifferent",
+		Combat = "Interested",
 		Cooking = "Interested",
 		Farming = "Interested",
 		Intellectual = "Indifferent",
@@ -634,7 +634,6 @@ PlaceObj('ModItemCharacterDef', {
 	Traits = {
 		"Inedia",
 		"Genius",
-		"Hemophobia",
 		"Healthy",
 		"QuickSleeper",
 		"Intimidating",

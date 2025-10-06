@@ -5,11 +5,11 @@ return PlaceObj('ModDef', {
 	'last_changes', "added Kes",
 	'id', "Pmb5Nio",
 	'author', "oivlisLhog",
-	'version', 141,
+	'version', 143,
 	'lua_revision', 233360,
 	'saved_with_revision', 373414,
 	'has_data', true,
-	'saved', 1759738471,
+	'saved', 1759738930,
 	'steam_id', "3573518914",
 	'TagCharacters', true,
 })

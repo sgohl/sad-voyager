@@ -1,15 +1,15 @@
 return PlaceObj('ModDef', {
 	'title', "Voyager Crew",
-	'description', "This mod adds characters from Star Trek: Voyager.\nOnly characters, no gameplay changes.",
+	'description', "This mod adds characters from Star Trek: Voyager.\nOnly characters, no gameplay changes.\n\nsee: https://github.com/sgohl/sad-voyager",
 	'image', "Mod/Pmb5Nio/Images/star-trek-voyager.jpg",
 	'last_changes', "- Tuvok: add Vegetarian\n- Seven: remove Hemophobia\n- Neelix: add Combat(interested)",
 	'id', "Pmb5Nio",
 	'author', "oivlisLhog",
-	'version', 146,
+	'version', 150,
 	'lua_revision', 233360,
 	'saved_with_revision', 373414,
 	'has_data', true,
-	'saved', 1759739036,
+	'saved', 1759739298,
 	'steam_id', "3573518914",
 	'TagCharacters', true,
 })

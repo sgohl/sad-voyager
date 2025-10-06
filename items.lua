@@ -259,7 +259,7 @@ PlaceObj('ModItemCharacterDef', {
 	LastName = T(519475057606, --[[ModItemCharacterDef Tom LastName]] "Paris"),
 	Payment = 60000000,
 	PerceivedGender = "Male",
-	Portrait = "Mod/Pmb5Nio/assets/images/mod_Tom_small2.jpg",
+	Portrait = "Mod/Pmb5Nio/Images/mod_Tom_small.jpg",
 	PortraitInventory = "UI/Portraits/Inventory/Simon_inventory",
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Tom_large.jpg",
 	SkillInclinations = {
@@ -551,9 +551,9 @@ PlaceObj('ModItemCharacterDef', {
 	LastName = "",
 	Payment = 45000000,
 	PerceivedGender = "Male",
-	Portrait = "Mod/Pmb5Nio/assets/images/mod_Doctor_small.jpg",
+	Portrait = "Mod/Pmb5Nio/Images/mod_Doctor_small.jpg",
 	PortraitInventory = "UI/Portraits/Inventory/Zander_inventory",
-	PortraitLarge = "Mod/Pmb5Nio/assets/images/mod_Doctor_large.jpg",
+	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Doctor_large.jpg",
 	SkillInclinations = {
 		Combat = "Indifferent",
 		Healing = "Interested",
@@ -580,6 +580,7 @@ PlaceObj('ModItemCharacterDef', {
 	anim_run = "standing_Walk_Run",
 	comment = "The Doctor",
 	id = "Doctor",
+	save_in = "Mod/Pmb5Nio",
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 36,
@@ -611,9 +612,9 @@ PlaceObj('ModItemCharacterDef', {
 	NickName = T(663974180672, --[[ModItemCharacterDef Seven NickName]] "Seven of Nine"),
 	Payment = 90000000,
 	PerceivedGender = "Female",
-	Portrait = "Mod/Pmb5Nio/assets/images/mod_Seven_small.jpg",
+	Portrait = "Mod/Pmb5Nio/Images/mod_Seven_small.jpg",
 	PortraitInventory = "UI/Portraits/Inventory/Laara_inventory",
-	PortraitLarge = "Mod/Pmb5Nio/assets/images/mod_Seven_large.jpg",
+	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Seven_large.jpg",
 	SkillInclinations = {
 		Cooking = "Indifferent",
 		Crafting = "Indifferent",
@@ -658,6 +659,7 @@ PlaceObj('ModItemCharacterDef', {
 	anim_walk_haste = "standing_Walk_Haste_Female",
 	comment = "Seven of Nine",
 	id = "Seven",
+	save_in = "Mod/Pmb5Nio",
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 17,
@@ -698,9 +700,9 @@ PlaceObj('ModItemCharacterDef', {
 	LastName = "",
 	Payment = 75000000,
 	PerceivedGender = "Female",
-	Portrait = "Mod/Pmb5Nio/assets/images/mod_Kes_small.jpg",
+	Portrait = "Mod/Pmb5Nio/Images/mod_Kes_small.jpg",
 	PortraitInventory = "UI/Portraits/Inventory/Krista_inventory",
-	PortraitLarge = "Mod/Pmb5Nio/assets/images/mod_Kes_large.jpg",
+	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Kes_large.jpg",
 	SkillInclinations = {
 		Farming = "Interested",
 	},
@@ -743,5 +745,6 @@ PlaceObj('ModItemCharacterDef', {
 	anim_walk_haste = "standing_Walk_Haste_Female",
 	comment = "Kes",
 	id = "Kes",
+	save_in = "Mod/Pmb5Nio",
 }),
 }

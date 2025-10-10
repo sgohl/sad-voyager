@@ -5,11 +5,11 @@ return PlaceObj('ModDef', {
 	'last_changes', "- Tuvok: add Vegetarian\n- Seven: remove Hemophobia\n- Neelix: add Combat(interested)",
 	'id', "Pmb5Nio",
 	'author', "oivlisLhog",
-	'version', 152,
+	'version', 153,
 	'lua_revision', 233360,
 	'saved_with_revision', 373414,
 	'has_data', true,
-	'saved', 1759742234,
+	'saved', 1760116540,
 	'steam_id', "3573518914",
 	'TagCharacters', true,
 })

@@ -1,7 +1,7 @@
 return {
 PlaceObj('ModItemCharacterDef', {
 	Age = 39,
-	Bio = T(980521947370, --[[ModItemCharacterDef Janeway Bio]] "BIO Janeway"),
+	Bio = T(221059469465, --[[ModItemCharacterDef Janeway Bio]] "Kathryn Janeway is a clever and resilient leader recognized for her strategic thinking, known for her unwavering determination and excels at making tough decisions.\nBeing experienced in managing complex situations, guiding her team through unfamiliar and challenging environments, while also navigating moral dilemmas.\nHer ability to learn and adapt quickly and maintain focus under pressure helps her being an effective and innovative leader capable of guiding her crew through the most challenging situations and keep going even when things get rough."),
 	Equipment = {
 		"Jacket_Spaceship",
 		"Pants_Spaceship",
@@ -87,7 +87,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 40,
-	Bio = T(150460911192, --[[ModItemCharacterDef Chakotay Bio]] "BIO Chakotay"),
+	Bio = T(150460911192, --[[ModItemCharacterDef Chakotay Bio]] "Commander Chakotay is a calm, steadfast leader with sharp strategic insight and strong technical skills. He excels at analyzing complex situations, fostering teamwork, and adapting to changing circumstances. His practical mindset, cultural awareness, and steady presence help maintain morale and unity, making him a reliable and resourceful first officer in any situation."),
 	Equipment = {
 		"Jacket_Light_Good",
 		"Pants_Spaceship",
@@ -148,6 +148,7 @@ PlaceObj('ModItemCharacterDef', {
 		"BadMemory",
 		"Intimidating",
 		"NaturalLeader",
+		"AvidCarpenter",
 	},
 	Weight = 80000,
 	anim_idle2 = "standing_Idle_Free2_Female",
@@ -171,7 +172,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 33,
-	Bio = T(571483443554, --[[ModItemCharacterDef Harry Bio]] "BIO Harry"),
+	Bio = T(571483443554, --[[ModItemCharacterDef Harry Bio]] "Harry Kim is a bright and dedicated operations officer recognized for his quick learning, technical expertise, and composure under pressure. His curiosity and adaptability allow him to master new systems rapidly and respond effectively to unexpected challenges. With a strong sense of duty and a genuine commitment to excellence, Kim consistently supports his crew through precision, teamwork, and optimism. His enthusiasm, intelligence, and reliability make him an invaluable member of any mission."),
 	Equipment = {
 		"Shoes_Normal",
 		"Shirt_Heavy_Crude",
@@ -218,6 +219,7 @@ PlaceObj('ModItemCharacterDef', {
 		"Explorer",
 		"NaturalCuriosity",
 		"MusicalProdigy",
+		"AvidTailor",
 	},
 	Weight = 75000,
 	anim_run = "standing_Walk_Run",
@@ -228,7 +230,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 35,
-	Bio = T(100153135456, --[[ModItemCharacterDef Tom Bio]] "BIO Tom"),
+	Bio = T(100153135456, --[[ModItemCharacterDef Tom Bio]] "Tom Paris is a talented, inventive pilot whose creative problem-solving skills allow him to navigate complex challenges and often lead to innovative solutions that get everyone out of tricky spots. His adventurous spirit fuels his technical expertise. He likes to write Holodeck simulations like Captain Proton, Fair Haven and enjoys classic movies. Being stranded now, options are limited but he's keen to find out new ways keeping him and the crew entertained."),
 	Equipment = {
 		"Shoes_Normal",
 		"Shirt_Light_Crude",
@@ -284,6 +286,7 @@ PlaceObj('ModItemCharacterDef', {
 		"EntertainmentJunkie",
 		"InspirationalWriter",
 		"CoagulatedBlood",
+		"ExperiencedScavenger",
 	},
 	anim_idle2 = "standing_Idle_Free2_Female",
 	anim_idle3 = "standing_Idle_Free3_Female",
@@ -299,7 +302,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 41,
-	Bio = T(136409015869, --[[ModItemCharacterDef Tuvok Bio]] "BIO Tuvok"),
+	Bio = T(136409015869, --[[ModItemCharacterDef Tuvok Bio]] "Tuvok is a disciplined and logical Vulcan security officer with deep expertise in tactics, strategy, and mental discipline. His calm focus and analytical precision bring stability in crises, while his professionalism and composure ensure the crew's safety and order. Reliable, intelligent, and efficient, Tuvok embodies the ideal balance of logic and leadership."),
 	Equipment = {
 		"Pants_Spaceship",
 		"Jacket_Spaceship",
@@ -322,7 +325,7 @@ PlaceObj('ModItemCharacterDef', {
 	HairParam3 = 127,
 	Head = "Head_Umayr",
 	Headline = T(611537761014, --[[ModItemCharacterDef Tuvok Headline]] "It's only logical"),
-	Height = 1880,
+	Height = 1900,
 	LastName = "",
 	Payment = 45000000,
 	PerceivedGender = "Male",
@@ -362,7 +365,7 @@ PlaceObj('ModItemCharacterDef', {
 PlaceObj('ModItemCharacterDef', {
 	Age = 41,
 	Beard = "Beard_Russell",
-	Bio = T(456606679201, --[[ModItemCharacterDef Neelix Bio]] "BIO Neelix"),
+	Bio = T(456606679201, --[[ModItemCharacterDef Neelix Bio]] "Neelix is a cheerful Talaxian, seeing himself as morale officer who lifts spirits with his positive attitude and practical solutions. His warmth helps create a strong sense of community even during tough times.\nHe is known for his culinary skills, positive attitude and he excels in cooking, hospitality, and cultural exchange.\nHist background includes navigating unfamiliar environments, improvising solutions with limited resources and maintaining optimism in challenging circumstances.\nHis interpersonal skills, adaptability and deep empathy make him an invaluable team member, fostering camaraderie and ensuring the well-being of his colleagues on long voyages.\n"),
 	Equipment = {
 		"AncientTalisman",
 		"Shirt_Heavy_Crude",
@@ -376,6 +379,7 @@ PlaceObj('ModItemCharacterDef', {
 	FavoriteRelaxation = {
 		"AppreciatingDecoration",
 		"Drinking",
+		"Reading",
 	},
 	FirstName = T(802065302630, --[[ModItemCharacterDef Neelix FirstName]] "Neelix"),
 	ForbiddenBreakdowns = {
@@ -393,6 +397,9 @@ PlaceObj('ModItemCharacterDef', {
 	Head = "Head_Delano",
 	Headline = T(735188509127, --[[ModItemCharacterDef Neelix Headline]] "Chef, Morale Officer, Ambassador and Negotiator"),
 	Height = 1650,
+	KnownTechs = {
+		"HaySausage",
+	},
 	LastName = "",
 	Payment = 60000000,
 	PerceivedGender = "Male",
@@ -403,9 +410,9 @@ PlaceObj('ModItemCharacterDef', {
 		Combat = "Interested",
 		Cooking = "Interested",
 		Farming = "Interested",
-		Intellectual = "Indifferent",
 	},
 	Skills = {
+		Combat = 1,
 		Cooking = 2,
 		Farming = 2,
 	},
@@ -424,6 +431,9 @@ PlaceObj('ModItemCharacterDef', {
 		"Sickly",
 		"Sleepy",
 		"Slowpoke",
+		"Attentive",
+		"Calming",
+		"InspirationalWriter",
 	},
 	Weight = 85000,
 	anim_run = "standing_Walk_Run",
@@ -434,7 +444,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 39,
-	Bio = T(895389756380, --[[ModItemCharacterDef Belanna Bio]] "BIO B'Elanna"),
+	Bio = T(895389756380, --[[ModItemCharacterDef Belanna Bio]] "B'Elanna Torres is a passionate and determined engineer celebrated for her exceptional technical skill, sharp problem-solving, and adaptability under pressure. With a deep understanding of starship systems and a relentless drive for innovation, she thrives in high-stakes situations where quick thinking is essential. Her resilience and creativity allow her to find effective solutions even in the most demanding conditions. Guided by her determination and commitment to excellence, Torres continually pushes the boundaries of engineering and proves herself an indispensable member of the crew."),
 	Equipment = {
 		"Armor_Shoes_Carbon",
 		"Armor_Jacket_Carbon",
@@ -442,14 +452,14 @@ PlaceObj('ModItemCharacterDef', {
 	},
 	Eyes = "Eyes_Gabriele",
 	FatiguePerDay = 55000,
+	FavoriteFood = {
+		"ChefsSteak",
+	},
 	FavoriteRelaxation = {
 		"Drinking",
 		"TargetPractice",
 	},
 	FirstName = T(946613322635, --[[ModItemCharacterDef Belanna FirstName]] "B'Elanna"),
-	ForbiddenBreakdowns = {
-		"SadWalk",
-	},
 	Hair = "HairFemale4",
 	HairColor1 = 4278584581,
 	HairColor2 = 4279176975,
@@ -461,6 +471,9 @@ PlaceObj('ModItemCharacterDef', {
 	Headline = T(357532908572, --[[ModItemCharacterDef Belanna Headline]] "Chief Engineer"),
 	Height = 1640,
 	IdealWeight = 65000,
+	KnownTechs = {
+		"MechCores",
+	},
 	LastName = T(285399750892, --[[ModItemCharacterDef Belanna LastName]] "Torres"),
 	Payment = 45000000,
 	PerceivedGender = "Female",
@@ -517,7 +530,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 44,
-	Bio = T(128869147344, --[[ModItemCharacterDef Doctor Bio]] "BIO Doctor"),
+	Bio = T(128869147344, --[[ModItemCharacterDef Doctor Bio]] "The Doctor is a holographic medical program brought to life with a growing sense of personality and curiosity. Designed to care for the crew, he excels at diagnosing and treating injuries and illnesses with precision and skill. Over time, he has developed his own perspective, often showing humor, determination, and a desire to learn about people.\n\nThough initially limited by his programming, he adapts quickly, finding creative solutions to challenges and expanding his knowledge beyond medicine. His dedication, intelligence, and growing empathy make him a reliable and resourceful member of any team."),
 	Equipment = {
 		"Shirt_Heavy_Good",
 		"Pants_Spaceship",
@@ -536,7 +549,6 @@ PlaceObj('ModItemCharacterDef', {
 		"Berserk",
 		"FoodBinge",
 		"DrinkingBinge",
-		"Crying",
 		"Initial_Crying",
 	},
 	Gender = "Male",
@@ -556,11 +568,13 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Doctor_large.jpg",
 	SkillInclinations = {
 		Combat = "Indifferent",
+		Cooking = "Indifferent",
 		Healing = "Interested",
+		Intellectual = "Interested",
 	},
 	Skills = {
 		Healing = 6,
-		Intellectual = 3,
+		Intellectual = 4,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {
 		'EditableColor1', RGBA(255, 132, 94, 255),
@@ -575,6 +589,9 @@ PlaceObj('ModItemCharacterDef', {
 		"MusicalProdigy",
 		"Genius",
 		"Inedia",
+		"Intimidating",
+		"InspirationalWriter",
+		"Agoraphobia",
 	},
 	Weight = 75000,
 	anim_run = "standing_Walk_Run",
@@ -584,7 +601,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 36,
-	Bio = T(661363790384, --[[ModItemCharacterDef Seven Bio]] "BIO Seven"),
+	Bio = T(880624393891, --[[ModItemCharacterDef Seven Bio]] "Seven of Nine is a disciplined and analytical former Borg known for her exceptional intellect, rapid learning, and technical precision. Her ability to master complex systems and develop innovative solutions makes her indispensable in any mission requiring efficiency and strategy. Guided by logic yet driven by an emerging sense of individuality, she continually seeks to understand and reclaim her humanity. This balance between machine-like focus and human curiosity defines her as both a formidable specialist and a compelling figure of personal growth."),
 	Equipment = {
 		"Shirt_Heavy_Good",
 		"Shoes_Normal",
@@ -663,7 +680,7 @@ PlaceObj('ModItemCharacterDef', {
 }),
 PlaceObj('ModItemCharacterDef', {
 	Age = 17,
-	Bio = T(830150262595, --[[ModItemCharacterDef Kes Bio]] "BIO Kes"),
+	Bio = T(830150262595, --[[ModItemCharacterDef Kes Bio]] "Kes is a gentle and curious young woman who approaches every experience with gratitude and wonder. Though her life span is short, she learns quickly and finds joy in discovery. Intelligent and empathetic, she has a natural gift for understanding others and easing tension within a group.\n\nRaised in an underground settlement, Kes always longed to explore and learn. Her calm strength and compassion make her a steady presence in difficult times, and her curiosity drives her to master new skills wherever she goes."),
 	Equipment = {
 		"Shoes_Normal",
 		"Shirt_Light_Crude",
@@ -722,7 +739,6 @@ PlaceObj('ModItemCharacterDef', {
 		"Attentive",
 		"AvidFarmer",
 		"Pacifist",
-		"Vegetarian",
 		"Neurotic",
 	},
 	Weight = 46000,

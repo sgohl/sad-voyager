@@ -430,7 +430,6 @@ PlaceObj('ModItemCharacterDef', {
 		"Haggler",
 		"Sickly",
 		"Sleepy",
-		"Slowpoke",
 		"Attentive",
 		"Calming",
 		"InspirationalWriter",
@@ -473,6 +472,7 @@ PlaceObj('ModItemCharacterDef', {
 	IdealWeight = 65000,
 	KnownTechs = {
 		"MechCores",
+		"SmallMech",
 	},
 	LastName = T(285399750892, --[[ModItemCharacterDef Belanna LastName]] "Torres"),
 	Payment = 45000000,
@@ -633,9 +633,6 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitInventory = "UI/Portraits/Inventory/Laara_inventory",
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Seven_large.jpg",
 	SkillInclinations = {
-		Cooking = "Indifferent",
-		Crafting = "Indifferent",
-		Healing = "Indifferent",
 		Intellectual = "Interested",
 	},
 	Skills = {
@@ -722,6 +719,7 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Kes_large.jpg",
 	SkillInclinations = {
 		Farming = "Interested",
+		Healing = "Interested",
 	},
 	Skills = {
 		Farming = 1,

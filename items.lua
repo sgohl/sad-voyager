@@ -399,6 +399,7 @@ PlaceObj('ModItemCharacterDef', {
 	Height = 1650,
 	KnownTechs = {
 		"HaySausage",
+		"LiquidFuelFromInsectMeat",
 	},
 	LastName = "",
 	Payment = 60000000,

@@ -206,7 +206,7 @@ PlaceObj('ModItemCharacterDef', {
 	Skills = {
 		Combat = 1,
 		Construction = 1,
-		Crafting = 1,
+		Crafting = 2,
 		Intellectual = 1,
 		Physical = 2,
 	},
@@ -258,6 +258,9 @@ PlaceObj('ModItemCharacterDef', {
 	Head = "Head_Greyson",
 	Headline = T(485334664904, --[[ModItemCharacterDef Tom Headline]] "The Pilot"),
 	Height = 1790,
+	KnownTechs = {
+		"HotairBalloonOptimization",
+	},
 	LastName = T(519475057606, --[[ModItemCharacterDef Tom LastName]] "Paris"),
 	Payment = 60000000,
 	PerceivedGender = "Male",
@@ -426,7 +429,6 @@ PlaceObj('ModItemCharacterDef', {
 	Traits = {
 		"ExcquisiteCook",
 		"Cheerful",
-		"Glutton",
 		"AvidFarmer",
 		"Haggler",
 		"Sickly",
@@ -484,13 +486,14 @@ PlaceObj('ModItemCharacterDef', {
 	SkillInclinations = {
 		Combat = "Interested",
 		Cooking = "Indifferent",
+		Crafting = "Interested",
 		Farming = "Indifferent",
 		Healing = "Indifferent",
 	},
 	Skills = {
 		Combat = 2,
 		Construction = 1,
-		Crafting = 1,
+		Crafting = 2,
 		Physical = 3,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {
@@ -569,7 +572,6 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Doctor_large.jpg",
 	SkillInclinations = {
 		Combat = "Indifferent",
-		Cooking = "Indifferent",
 		Healing = "Interested",
 		Intellectual = "Interested",
 	},
@@ -611,11 +613,6 @@ PlaceObj('ModItemCharacterDef', {
 	},
 	Eyes = "Eyes_Larisa",
 	FirstName = T(830417876283, --[[ModItemCharacterDef Seven FirstName]] "Seven"),
-	ForbiddenBreakdowns = {
-		"Stealing",
-		"FoodBinge",
-		"DrinkingBinge",
-	},
 	Hair = "Hair_Larisa",
 	HairColor1 = 4289030938,
 	HairColor2 = 4282128642,
@@ -638,8 +635,8 @@ PlaceObj('ModItemCharacterDef', {
 	},
 	Skills = {
 		Combat = 2,
-		Intellectual = 5,
-		Physical = 1,
+		Intellectual = 6,
+		Physical = 2,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {
 		'EditableColor1', RGBA(255, 159, 116, 255),
@@ -719,12 +716,13 @@ PlaceObj('ModItemCharacterDef', {
 	PortraitInventory = "UI/Portraits/Inventory/Krista_inventory",
 	PortraitLarge = "Mod/Pmb5Nio/Images/mod_Kes_large.jpg",
 	SkillInclinations = {
+		Crafting = "Interested",
 		Farming = "Interested",
 		Healing = "Interested",
 	},
 	Skills = {
 		Farming = 1,
-		Healing = 1,
+		Healing = 2,
 		Intellectual = 1,
 	},
 	SkinColor = PlaceObj('ColorizationPropSet', {

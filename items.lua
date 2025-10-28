@@ -564,6 +564,9 @@ PlaceObj('ModItemCharacterDef', {
 	Headline = T(384435125152, --[[ModItemCharacterDef Doctor Headline]] "Emergency Medical Hologram"),
 	Height = 1900,
 	IdealWeight = 75000,
+	KnownTechs = {
+		"FieldCureplant",
+	},
 	LastName = "",
 	Payment = 45000000,
 	PerceivedGender = "Male",
@@ -588,7 +591,6 @@ PlaceObj('ModItemCharacterDef', {
 		"NightOwl",
 		"Gloomy",
 		"ImpeccableHealer",
-		"Pacifist",
 		"MusicalProdigy",
 		"Genius",
 		"Inedia",
